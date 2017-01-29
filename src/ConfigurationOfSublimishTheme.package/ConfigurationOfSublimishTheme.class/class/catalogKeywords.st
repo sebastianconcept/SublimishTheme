@@ -1,0 +1,3 @@
+catalog
+catalogKeywords
+	^ #(GUI IDE)

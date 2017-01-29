@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSublimishTheme",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSublimishTheme",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

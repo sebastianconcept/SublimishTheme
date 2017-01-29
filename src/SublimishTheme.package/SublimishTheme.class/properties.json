@@ -1,0 +1,14 @@
+{
+	"category" : "SublimishTheme",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SublimishTheme",
+	"pools" : [
+		 ],
+	"super" : "UIThemeWatery",
+	"type" : "normal" }

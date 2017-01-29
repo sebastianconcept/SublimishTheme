@@ -10,5 +10,5 @@
 	"name" : "SublimishTheme",
 	"pools" : [
 		 ],
-	"super" : "UIThemeWatery",
+	"super" : "Pharo3DarkTheme",
 	"type" : "normal" }
